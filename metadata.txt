@@ -1,0 +1,29 @@
+Class Label Class Name Description
+0 African Blouse This refers to different styles of blouses
+worn by women in different textile
+types such as Ankara, Lace, Linen.etc
+African Blouse is worn across the continent.
+1 African Shirts These are different styles of tops/shirts
+worn by men in different textile types such
+as Ankara, Lace, Linen.etc
+2 Agbada This attire consists of a Top/Shirt with
+matching trousers and a flowing gown is
+worn over these. This type is also called
+a grand boubou
+3 Buba and Trouser This is also called a dashiki trouser set. It
+consists of African tops/shirts and trouser
+4 Gele This is referred to as women’s cloth head
+scarf/head tie that is commonly worn in
+many parts of Africa. It is called duku in
+Malawi and Ghana
+5 Gown This refers to different styles of a gown
+worn by women in different textile types
+such as Ankara, Lace, Linen. etc. Gowns
+are usually a single piece of clothing without an additional piece
+6 Skirt and Blouse This attire refers to a combination of a female African blouse worn as a top and a
+skirt(a separate outer garment) worn as the
+lower part of a dress that covers a person
+from the waist downwards
+7 Wrapper and Blouse This attire refers to a combination of a female African blouse worn as a top and a
+garment(wrapper) tied across the waist as
+the lower part of a dress.
