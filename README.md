@@ -1,5 +1,5 @@
 # Identify-gender-with-AFRIFASHION1600
-Exporing the use of cloth identification for gender classification 
+Exporing the use of cloth identification for gender classification <br>
 see article here: https://lnkd.in/gZKpHy5
 
 Below are predictions of sample test images.
